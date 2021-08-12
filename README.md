@@ -1,6 +1,6 @@
 # University-Administration-for-Java
 
-##  My program contains: 
+##  My project contains: 
 ###   • Adding a new student, instructor, or course.
 ###   • Updating a student’s, instructor’s, or course’s property.
 ###   • Removing a student, instructor, or course.
